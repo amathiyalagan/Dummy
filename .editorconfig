@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# Default severity for all analyzer diagnostics
+dotnet_analyzer_diagnostic.severity = none
+
+# CA9998: Analyzer package has been deprecated
+dotnet_diagnostic.CA9998.severity = none

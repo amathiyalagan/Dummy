@@ -1,0 +1,496 @@
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ELIT_Selenium_TR.dll.config
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ELIT_Selenium_TR.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ELIT_Selenium_TR.pdb
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ExtentReports.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Bson.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.framework.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\RazorEngine.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Web.Razor.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.Support.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Bson.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.framework.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\RazorEngine.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Web.Razor.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.Support.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.csproj.CoreCompileInputs.cache
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.csproj.CopyComplete
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.pdb
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\snappy32.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\snappy64.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\libzstd.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\DnsClient.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\SharpCompress.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Buffers.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Memory.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Http.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\DnsClient.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Buffers.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Memory.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\snappy32.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\snappy64.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\libzstd.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ELIT_Selenium_TR.dll.config
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ELIT_Selenium_TR.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ELIT_Selenium_TR.pdb
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\DnsClient.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ExtentReports.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Bson.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.framework.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\RazorEngine.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\SharpCompress.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Buffers.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Memory.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Http.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Web.Razor.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.Support.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\DnsClient.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Bson.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.framework.pdb
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.framework.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\RazorEngine.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Buffers.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Memory.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Web.Razor.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.Support.xml
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.csproj.CoreCompileInputs.cache
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.csproj.CopyComplete
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.dll
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.pdb
+C:\Users\ATS074\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.csprojAssemblyReference.cache
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\netstandard.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.AppContext.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Collections.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ComponentModel.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Console.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Data.Common.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Globalization.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.Compression.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.Pipes.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Linq.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Ping.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Primitives.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Requests.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Security.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Sockets.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ObjectModel.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Reflection.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Resources.Reader.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Resources.Writer.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Claims.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Principal.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.SecureString.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.Encoding.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Thread.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Timer.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ValueTuple.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XPath.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Sreekanth Reddy\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.csprojAssemblyReference.cache
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\snappy32.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\snappy64.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\libzstd.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.engine.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.engine.api.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.engine.core.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ELIT_Selenium_TR.dll.config
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ELIT_Selenium_TR.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ELIT_Selenium_TR.pdb
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\netstandard.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.AppContext.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Collections.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Collections.Specialized.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ComponentModel.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Console.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Data.Common.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Globalization.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.Compression.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.FileSystem.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.Pipes.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Linq.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Linq.Expressions.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Linq.Parallel.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Linq.Queryable.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Http.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.NameResolution.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Ping.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Primitives.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Requests.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Security.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Sockets.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.WebSockets.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ObjectModel.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Reflection.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Resources.Reader.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Resources.Writer.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Handles.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Claims.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Principal.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.SecureString.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.Encoding.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Tasks.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Thread.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Timer.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ValueTuple.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XDocument.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XPath.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\DnsClient.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ExtentReports.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\HtmlAgilityPack.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Bson.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.framework.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\RazorEngine.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\SharpCompress.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Buffers.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Memory.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Web.Razor.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.Support.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\DnsClient.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\HtmlAgilityPack.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Bson.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.framework.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\RazorEngine.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Buffers.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Memory.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Web.Razor.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.Support.xml
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.csproj.CoreCompileInputs.cache
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.csproj.CopyComplete
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.dll
+C:\Users\csrik\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.pdb
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\snappy32.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\snappy64.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\libzstd.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.engine.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.engine.api.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.engine.core.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ELIT_Selenium_TR.dll.config
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ELIT_Selenium_TR.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ELIT_Selenium_TR.pdb
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\netstandard.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.AppContext.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Collections.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Collections.Specialized.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ComponentModel.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Console.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Data.Common.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Globalization.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.Compression.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.FileSystem.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.Pipes.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Linq.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Linq.Expressions.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Linq.Parallel.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Linq.Queryable.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Http.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.NameResolution.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Ping.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Primitives.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Requests.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Security.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.Sockets.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Net.WebSockets.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ObjectModel.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Reflection.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Resources.Reader.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Resources.Writer.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Handles.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Claims.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.Principal.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Security.SecureString.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.Encoding.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Tasks.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Thread.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Threading.Timer.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.ValueTuple.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XDocument.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XPath.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\DnsClient.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\ExtentReports.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\HtmlAgilityPack.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Bson.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.framework.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\RazorEngine.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\SharpCompress.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Buffers.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Memory.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Web.Razor.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.Support.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\DnsClient.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\HtmlAgilityPack.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Bson.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\nunit.framework.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\RazorEngine.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Buffers.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Memory.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\System.Web.Razor.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\bin\Debug\WebDriver.Support.xml
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.csproj.AssemblyReference.cache
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.csproj.CoreCompileInputs.cache
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.csproj.CopyComplete
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.dll
+C:\Users\srchi\source\repos\ELIT_Selenium_TR\ELIT_Selenium_TR\obj\Debug\ELIT_Selenium_TR.pdb

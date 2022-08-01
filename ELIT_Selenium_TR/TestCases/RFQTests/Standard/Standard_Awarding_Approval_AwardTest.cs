@@ -1,0 +1,253 @@
+﻿using AventStack.ExtentReports;
+using ELIT_Selenium_TR.Config;
+using ELIT_Selenium_TR.PageMethods.RFQ.Simple;
+using NUnit.Framework;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ELIT_Selenium_TR.TestCases.RFQTests.Flexible
+{
+    [TestFixture]
+    public class Standard_Awarding_Approval_AwardTest:ReportsGenerationClass
+    {
+        Awarding_Approval_Award AAA;
+
+        [Test, Order(1)]
+        [Category("Standard Document Award Approval")]
+        public void Standard_Accept_Award_Approval()
+        {
+            AAA = new Awarding_Approval_Award(GetDriver());
+
+            try
+            {
+                AAA.GoToPage("http://localhost:3000/");
+                AAA.UserName("ATHANIGA");
+                AAA.Password("Atsdxb@003");
+                AAA.SignIn();
+                _test.Log(Status.Pass, "Buyer Logged In");
+                AAA.Sourcing();
+                AAA.Quotation();
+                AAA.Closed_Document();
+                AAA.Closed_Document_Search("STANDARD RFQ CREATION 36 of 40 on JAN2022");  //Go To line 51
+                AAA.Document();
+                AAA.Doc_Action();
+                AAA.Award_Quote();
+                AAA.Award();
+                _test.Log(Status.Pass, "Lines are Awarded");
+                AAA.Award_Apply();
+                AAA.Doc_Action();
+                AAA.Req_Award_Approval();
+                _test.Log(Status.Pass, "Requested for Award Approval");
+                AAA.Buyer_LogOut();
+                _test.Log(Status.Pass, "Buyer Logged Out");
+
+                AAA.UserName("RAMANA.KALLEPALLI");
+                AAA.Password("Atsdxb@003");
+                AAA.SignIn();
+                _test.Log(Status.Pass, "Approver Logged In");
+                AAA.Approval();
+                AAA.Approval_Notification();
+                AAA.Document_Award();
+                AAA.Document_Search("STANDARD RFQ CREATION 36 of 40 on JAN2022");  //Go To Line 64
+                AAA.Document_AW();
+                AAA.Action();
+                AAA.Approve("Award Request Approved");
+                AAA.Approver_LogOut();
+                _test.Log(Status.Pass, "Approver Logged Out");
+
+                AAA.UserName("ATHANIGA");
+                AAA.Password("Atsdxb@003");
+                AAA.SignIn();
+                _test.Log(Status.Pass, "Buyer Logged In");
+                AAA.Sourcing();
+                AAA.Quotation();
+                AAA.Closed_Document();
+                AAA.Closed_Document_Search("STANDARD RFQ CREATION 36 of 40 on JAN2022");
+                AAA.Document();
+                AAA.Doc_Action();
+                AAA.Complete_Award();
+                _test.Log(Status.Pass, "RFQ Awarding Completed");
+                AAA.Buyer_Logout();
+                _test.Log(Status.Pass, "Buyer Logged Out");
+
+
+            }
+            catch (Exception ex)
+            {
+                if ((ex.GetType() == typeof(OpenQA.Selenium.NoSuchElementException) | (ex.GetType() == typeof(OpenQA.Selenium.WebDriverTimeoutException))))
+                {
+                    DateTime time = DateTime.Now;
+                    String fileName = "Screenshot_" + time.ToString("dd_MM_yyyy_hh_mm_ss") + ".png";
+                    String screenShotPath = Capture(_driver, fileName);
+                    _test.Log(Status.Fail, ex.ToString());
+                    _test.Log(Status.Fail, "Snapshot below: " + _test.AddScreenCaptureFromPath("Screenshots\\" + fileName));
+                }
+                else
+                {
+                    try
+                    {
+                        AAA.ErrorValidation();
+                    }
+                    catch (Exception innerexception)
+                    {
+                        DateTime time = DateTime.Now;
+                        String fileName = "Screenshot_" + time.ToString("dd_MM_yyyy_hh_mm_ss") + ".png";
+                        String screenShotPath = Capture(_driver, fileName);
+                        _test.Log(Status.Fail, innerexception.ToString());
+                        _test.Log(Status.Fail, "Snapshot below: " + _test.AddScreenCaptureFromPath("Screenshots\\" + fileName));
+                    }
+                }
+            }
+            finally
+            {
+                AAA.closeBrowser();
+            }
+        }
+
+
+        [Test, Order(2)]
+        [Category("Standard Document Award Approval")]
+        public void Standard_RFQ_Award()
+        {
+            AAA = new Awarding_Approval_Award(GetDriver());
+
+            try
+            {
+                AAA.GoToPage("http://localhost:3000/");
+                AAA.UserName("ATHANIGA");
+                AAA.Password("Atsdxb@003");
+                AAA.SignIn();
+                _test.Log(Status.Pass, "Buyer Logged In");
+                AAA.Sourcing();
+                AAA.Quotation();
+                AAA.Closed_Document();
+                AAA.Closed_Document_Search("RFQ Creation on 25032022 11.31"); 
+                AAA.Document();
+                AAA.Doc_Action();
+                AAA.Award_Quote();
+                AAA.Award();
+                _test.Log(Status.Pass, "Lines are awarded");
+                AAA.Award_Apply();
+                AAA.Doc_Action();
+                AAA.Complete_Award();
+                _test.Log(Status.Pass, "Clicked on Complete Award");
+                AAA.Buyer_LogOut();
+                _test.Log(Status.Pass, "Buyer Logged Out");
+            }
+            catch (Exception ex)
+            {
+                if ((ex.GetType() == typeof(OpenQA.Selenium.NoSuchElementException) | (ex.GetType() == typeof(OpenQA.Selenium.WebDriverTimeoutException))))
+                {
+                    DateTime time = DateTime.Now;
+                    String fileName = "Screenshot_" + time.ToString("dd_MM_yyyy_hh_mm_ss") + ".png";
+                    String screenShotPath = Capture(_driver, fileName);
+                    _test.Log(Status.Fail, ex.ToString());
+                    _test.Log(Status.Fail, "Snapshot below: " + _test.AddScreenCaptureFromPath("Screenshots\\" + fileName));
+                }
+                else
+                {
+                    try
+                    {
+                        AAA.ErrorValidation();
+                    }
+                    catch (Exception innerexception)
+                    {
+                        DateTime time = DateTime.Now;
+                        String fileName = "Screenshot_" + time.ToString("dd_MM_yyyy_hh_mm_ss") + ".png";
+                        String screenShotPath = Capture(_driver, fileName);
+                        _test.Log(Status.Fail, innerexception.ToString());
+                        _test.Log(Status.Fail, "Snapshot below: " + _test.AddScreenCaptureFromPath("Screenshots\\" + fileName));
+                    }
+                }
+            }
+            finally
+            {
+                AAA.closeBrowser();
+            }
+        }
+
+
+
+
+        [Test, Order(3)]
+        [Category("Standard Document Award Approval")]
+        public void Standard_Reject_Award_Approval()
+        {
+            AAA = new Awarding_Approval_Award(GetDriver());
+
+            try
+            {
+                AAA.GoToPage("http://localhost:3000/");
+                AAA.UserName("ATHANIGA");
+                AAA.Password("Atsdxb@003");
+                AAA.SignIn();
+                _test.Log(Status.Info, "Buyer Logged In");
+                AAA.Sourcing();
+                AAA.Quotation();
+                AAA.Closed_Document();
+                AAA.Closed_Document_Search("STANDARD RFQ CREATION 34 of 40 on JAN2022"); //go to line 121
+                AAA.Document();
+                AAA.Doc_Action();
+                AAA.Award_Quote();
+                AAA.Award();
+                _test.Log(Status.Pass, "Lines are Awarded");
+                AAA.Award_Apply();
+                AAA.Doc_Action();
+                AAA.Req_Award_Approval();
+                _test.Log(Status.Pass, "Requested for Award Approval");
+                AAA.Buyer_LogOut();
+                _test.Log(Status.Pass, "Buyer Logged Out");
+
+                AAA.UserName("RAMANA.KALLEPALLI");
+                AAA.Password("Atsdxb@003");
+                AAA.SignIn();
+                _test.Log(Status.Pass, "Approver Logged In");
+                AAA.Approval();
+                AAA.Approval_Notification();
+                AAA.Document_Award();
+                AAA.Document_Search("STANDARD RFQ CREATION 34 of 40 on JAN2022");
+                AAA.Document_AW();
+                AAA.Action();
+                AAA.Reject("Please contact our Support Team for Further Information");
+                _test.Log(Status.Pass, "Awarding Request Rejected");
+                AAA.Approver_LogOut();
+                _test.Log(Status.Pass, "Approver Logged Out");
+
+
+            }
+            catch (Exception ex)
+            {
+                if ((ex.GetType() == typeof(OpenQA.Selenium.NoSuchElementException) | (ex.GetType() == typeof(OpenQA.Selenium.WebDriverTimeoutException))))
+                {
+                    DateTime time = DateTime.Now;
+                    String fileName = "Screenshot_" + time.ToString("dd_MM_yyyy_hh_mm_ss") + ".png";
+                    String screenShotPath = Capture(_driver, fileName);
+                    _test.Log(Status.Fail, ex.ToString());
+                    _test.Log(Status.Fail, "Snapshot below: " + _test.AddScreenCaptureFromPath("Screenshots\\" + fileName));
+                }
+                else
+                {
+                    try
+                    {
+                        AAA.ErrorValidation();
+                    }
+                    catch (Exception innerexception)
+                    {
+                        DateTime time = DateTime.Now;
+                        String fileName = "Screenshot_" + time.ToString("dd_MM_yyyy_hh_mm_ss") + ".png";
+                        String screenShotPath = Capture(_driver, fileName);
+                        _test.Log(Status.Fail, innerexception.ToString());
+                        _test.Log(Status.Fail, "Snapshot below: " + _test.AddScreenCaptureFromPath("Screenshots\\" + fileName));
+                    }
+                }
+            }
+            finally
+            {
+                AAA.closeBrowser();
+            }
+        }
+    }
+}
